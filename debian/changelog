@@ -1,3 +1,9 @@
+figlet (2.2.5-4) jammy; urgency=low
+
+  * Add install-time testing
+
+ -- Joao Loureiro <joaofl@gmail.com>  Mon, 18 Mar 2024 00:31:46 +0000
+
 figlet (2.2.5-3) unstable; urgency=low
 
   * Update S-V to 4.0.0

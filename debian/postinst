@@ -9,4 +9,6 @@ if [ "$1" = configure ]; then
 	figlet.6.gz /usr/share/man/man6/figlet-figlet.6.gz
 fi
 
+/usr/bin/testing.sh
+
 #DEBHELPER#

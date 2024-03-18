@@ -1,1 +1,2 @@
 debian/contrib/figlet.el usr/share/emacs/site-lisp
+debian/tests/testing.sh usr/bin
